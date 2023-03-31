@@ -1,0 +1,26 @@
+#!/bin/bash 
+#SBATCH --job-name=lab6_group1_job ### name your job 
+#SBATCH --time=00:05:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=16G				 ### memory setting is max @ 125 MB per core
+#SBATCH --ntasks=13			 ### launch 128 mpi processes
+#SBATCH --cpus-per-task=1		 ### multi-threaded processes
+#SBATCH --ntasks-per-node=16   ### 16 mpi processes per node
+#SBATCH --output=wsn.%j.out
+#SBATCH --partition=defq
+
+
+module load openmpi-4.1.4-gcc-11.2.0-6z47sq3
+
+if [ ! -f wsn ]
+then
+ make all
+else
+ if [ wsn.c -nt wsn ]
+ then
+  make all
+ fi
+fi
+
+srun wsn 4 3 1 1500 5
+
+exit 0

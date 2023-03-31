@@ -1,0 +1,799 @@
+FIT3143 Assignment 2
+
+MA Lab 6 Team 1
+Editha Karina Hermawan 32179081
+Lionie Annabella Wijaya 31316115
+
+Ocean nodes dimension: 5x5
+Coordinate different threshold (km): 1.000000
+Magnitude different threshold: 1500.000000
+Earthquake magnitude threshold: 2.500000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time: 2022/10/16 20:17:18
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (4,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (37.123367,28.597588)| Magnitude: 4.072208| Depth: 127.027000
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (3,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.487980,24.760489), Diff(coord,km): 558.913757 | Magnitude: 5.405503, Diff(mag) 1.333295| Depth: 112.008171
+Coord: (4,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (39.969032,20.494749), Diff(coord,km): 945.686035 | Magnitude: 4.357604, Diff(mag) 0.285396| Depth: 169.742249
+Coord: (4,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (36.834934,28.521481), Diff(coord,km): 29.412062 | Magnitude: 4.419469, Diff(mag) 0.347260| Depth: 132.336411
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1662.719971
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.613351
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time: 2022/10/16 20:17:18
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (3,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (32.490719,28.072104)| Magnitude: 5.132182| Depth: 144.409821
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (4,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (36.322350,31.948549), Diff(coord,km): 567.242920 | Magnitude: 5.824300, Diff(mag) 0.692118| Depth: 85.735664
+Coord: (3,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.487980,24.760489), Diff(coord,km): 381.367096 | Magnitude: 5.405503, Diff(mag) 0.273321| Depth: 112.008171
+Coord: (3,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (36.458797,36.303574), Diff(coord,km): 988.217590 | Magnitude: 6.687653, Diff(mag) 1.555470| Depth: 34.334373
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1259.188599
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 1.553377
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time: 2022/10/16 20:17:18
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (29.610403,28.089626)| Magnitude: 4.727178| Depth: 21.234283
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (24.434958,25.296268), Diff(coord,km): 600.554871 | Magnitude: 5.495176, Diff(mag) 0.767999| Depth: 41.431583
+Coord: (3,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.487980,24.760489), Diff(coord,km): 534.799438 | Magnitude: 5.405503, Diff(mag) 0.678326| Depth: 112.008171
+Coord: (2,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (30.583101,22.349255), Diff(coord,km): 645.715271 | Magnitude: 6.983783, Diff(mag) 2.256605| Depth: 63.185883
+Coord: (2,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.646095,29.055288), Diff(coord,km): 142.810532 | Magnitude: 6.476746, Diff(mag) 1.749568| Depth: 130.275848
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1065.917358
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 1.958382
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.288553,36.410530)| Magnitude: 4.324814| Depth: 70.594223
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.628729,36.699131), Diff(coord,km): 151.681793 | Magnitude: 5.784611, Diff(mag) 1.459797| Depth: 151.811386
+Coord: (3,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.155872,38.773849), Diff(coord,km): 502.823608 | Magnitude: 4.093470, Diff(mag) 0.231344| Depth: 95.441162
+Coord: (2,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (30.033894,32.344994), Diff(coord,km): 479.553864 | Magnitude: 4.193952, Diff(mag) 0.130862| Depth: 162.499557
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1847.329590
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.360745
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (31.567324,28.433331)| Magnitude: 3.904687| Depth: 46.512154
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.355761,30.727922), Diff(coord,km): 401.874695 | Magnitude: 6.917781, Diff(mag) 3.013094| Depth: 27.775497
+Coord: (3,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (32.509979,30.839125), Diff(coord,km): 282.582672 | Magnitude: 5.245765, Diff(mag) 1.341078| Depth: 122.143326
+Coord: (2,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (29.610403,28.089626), Diff(coord,km): 195.422211 | Magnitude: 4.727178, Diff(mag) 0.822491| Depth: 21.234283
+Coord: (2,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (30.033894,32.344994), Diff(coord,km): 459.111603 | Magnitude: 4.193952, Diff(mag) 0.289265| Depth: 162.499557
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1220.783936
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.780872
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (4,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (37.422451,31.262157)| Magnitude: 6.101042| Depth: 22.181116
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (3,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (32.509979,30.839125), Diff(coord,km): 470.267273 | Magnitude: 5.245765, Diff(mag) 0.855278| Depth: 122.143326
+Coord: (4,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (37.123367,28.597588), Diff(coord,km): 297.670319 | Magnitude: 4.072208, Diff(mag) 2.028834| Depth: 127.027000
+Coord: (4,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (37.488403,35.276169), Diff(coord,km): 446.358307 | Magnitude: 5.547850, Diff(mag) 0.553193| Depth: 118.340370
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1852.484863
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 0.584517
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (23.752832,32.013874)| Magnitude: 4.892282| Depth: 81.655769
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.143391,33.289558), Diff(coord,km): 264.950134 | Magnitude: 5.505533, Diff(mag) 0.613252| Depth: 146.768402
+Coord: (0,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (20.858810,28.485855), Diff(coord,km): 480.724915 | Magnitude: 5.097496, Diff(mag) 0.205215| Depth: 22.842012
+Coord: (0,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (23.690323,39.301140), Diff(coord,km): 810.287598 | Magnitude: 4.568527, Diff(mag) 0.323755| Depth: 89.068199
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1296.458374
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 1.793278
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (24.496363,38.032017)| Magnitude: 4.090616| Depth: 168.710266
+
+2 out of 2 Adjacent Nodes matching to Reporting Node:
+Coord: (1,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (27.575954,36.519188), Diff(coord,km): 320.184540 | Magnitude: 3.253877, Diff(mag) 0.836739| Depth: 105.220398
+Coord: (0,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (23.026325,33.728851), Diff(coord,km): 496.435974 | Magnitude: 3.195370, Diff(mag) 0.895246| Depth: 155.283798
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1968.005981
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.594944
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.442554,28.174873)| Magnitude: 5.766813| Depth: 56.731754
+
+4 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (0,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (20.858810,28.485855), Diff(coord,km): 742.917114 | Magnitude: 5.097496, Diff(mag) 0.669317| Depth: 22.842012
+Coord: (2,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.646095,29.055288), Diff(coord,km): 99.888580 | Magnitude: 6.476746, Diff(mag) 0.709933| Depth: 130.275848
+Coord: (1,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.150345,26.643023), Diff(coord,km): 172.750519 | Magnitude: 6.061504, Diff(mag) 0.294692| Depth: 156.431976
+Coord: (1,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.143391,33.289558), Diff(coord,km): 609.621216 | Magnitude: 5.505533, Diff(mag) 0.261280| Depth: 146.768402
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1008.611572
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 0.918746
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (1,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (25.207232,38.224751)| Magnitude: 4.217898| Depth: 157.158432
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (0,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (23.690323,39.301140), Diff(coord,km): 177.815552 | Magnitude: 4.568527, Diff(mag) 0.350628| Depth: 89.068199
+Coord: (2,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.288553,36.410530), Diff(coord,km): 338.984314 | Magnitude: 4.324814, Diff(mag) 0.106915| Depth: 70.594223
+Coord: (1,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (24.412148,32.206001), Diff(coord,km): 673.099487 | Magnitude: 4.984386, Diff(mag) 0.766488| Depth: 144.438721
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1994.237915
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.467661
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (1,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (27.702902,26.560295)| Magnitude: 4.570699| Depth: 119.748047
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (0,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (22.173523,28.698288), Diff(coord,km): 594.220764 | Magnitude: 4.430251, Diff(mag) 0.140448| Depth: 130.203644
+Coord: (2,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.351646,26.763943), Diff(coord,km): 68.324661 | Magnitude: 4.654644, Diff(mag) 0.083945| Depth: 32.559502
+Coord: (1,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.710339,20.885994), Diff(coord,km): 638.951721 | Magnitude: 6.308652, Diff(mag) 1.737954| Depth: 122.563469
+Coord: (1,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (24.739832,29.956970), Diff(coord,km): 476.237671 | Magnitude: 3.778492, Diff(mag) 0.792207| Depth: 38.755386
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 817.940796
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.114861
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time: 2022/10/16 20:17:20
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (32.188919,31.017485)| Magnitude: 5.968546| Depth: 33.197598
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.646095,29.055288), Diff(coord,km): 404.803619 | Magnitude: 6.476746, Diff(mag) 0.508200| Depth: 130.275848
+Coord: (4,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (37.422451,31.262157), Diff(coord,km): 498.760345 | Magnitude: 6.101042, Diff(mag) 0.132496| Depth: 22.181116
+Coord: (3,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (33.842384,24.588001), Diff(coord,km): 733.120239 | Magnitude: 6.768768, Diff(mag) 0.800222| Depth: 96.322105
+Coord: (3,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.917480,36.220009), Diff(coord,km): 600.165161 | Magnitude: 4.875648, Diff(mag) 1.092898| Depth: 27.958389
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1475.954712
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 0.717013
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (0,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (23.594620,28.143362)| Magnitude: 5.748824| Depth: 116.328087
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.150345,26.643023), Diff(coord,km): 479.646820 | Magnitude: 6.061504, Diff(mag) 0.312680| Depth: 156.431976
+Coord: (0,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (22.860498,24.255844), Diff(coord,km): 438.408417 | Magnitude: 3.649018, Diff(mag) 2.099806| Depth: 32.696335
+Coord: (0,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (20.858810,28.485855), Diff(coord,km): 270.486389 | Magnitude: 5.097496, Diff(mag) 0.651328| Depth: 22.842012
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1396.030273
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.128057
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.937582,29.352951)| Magnitude: 3.457889| Depth: 53.117741
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (24.739832,29.956970), Diff(coord,km): 698.607422 | Magnitude: 3.778492, Diff(mag) 0.320603| Depth: 38.755386
+Coord: (3,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (32.490719,28.072104), Diff(coord,km): 152.288986 | Magnitude: 5.132182, Diff(mag) 1.674293| Depth: 144.409821
+Coord: (2,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.351646,26.763943), Diff(coord,km): 454.559814 | Magnitude: 4.654644, Diff(mag) 1.196755| Depth: 32.559502
+Coord: (2,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (29.906771,34.843407), Diff(coord,km): 639.700378 | Magnitude: 3.099240, Diff(mag) 0.358649| Depth: 57.603069
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 1188.628052
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 0.922069
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (4,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (37.445465,32.843082)| Magnitude: 5.065743| Depth: 61.898224
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (3,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.917480,36.220009), Diff(coord,km): 495.312286 | Magnitude: 4.875648, Diff(mag) 0.190095| Depth: 27.958389
+Coord: (4,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (36.322350,31.948549), Diff(coord,km): 144.950241 | Magnitude: 5.824300, Diff(mag) 0.758556| Depth: 85.735664
+Coord: (4,4) | Date and time: 2022/10/16 20:17:18| Seismic coord: (36.691208,36.189922), Diff(coord,km): 378.490814 | Magnitude: 3.303339, Diff(mag) 1.762405| Depth: 77.169601
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 968.069885
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.555023
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (32.716904,25.152740)| Magnitude: 5.847049| Depth: 83.164604
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (2,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.351646,26.763943), Diff(coord,km): 471.702209 | Magnitude: 4.654644, Diff(mag) 1.192405| Depth: 32.559502
+Coord: (4,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (38.752048,24.789955), Diff(coord,km): 609.599487 | Magnitude: 4.860203, Diff(mag) 0.986846| Depth: 83.808426
+Coord: (3,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (34.477814,21.426258), Diff(coord,km): 451.671722 | Magnitude: 3.673818, Diff(mag) 2.173230| Depth: 153.950974
+Coord: (3,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (32.490719,28.072104), Diff(coord,km): 325.380280 | Magnitude: 5.132182, Diff(mag) 0.714867| Depth: 144.409821
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 433.796906
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.226282
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (29.672291,27.749155)| Magnitude: 5.812026| Depth: 44.429699
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (28.150345,26.643023), Diff(coord,km): 194.371475 | Magnitude: 6.061504, Diff(mag) 0.249478| Depth: 156.431976
+Coord: (3,1) | Date and time: 2022/10/16 20:17:18| Seismic coord: (33.487980,24.760489), Diff(coord,km): 505.112610 | Magnitude: 5.405503, Diff(mag) 0.406523| Depth: 112.008171
+Coord: (2,0) | Date and time: 2022/10/16 20:17:20| Seismic coord: (32.376690,20.304399), Diff(coord,km): 872.053589 | Magnitude: 3.434685, Diff(mag) 2.377341| Depth: 94.619766
+Coord: (2,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (31.567324,28.433331), Diff(coord,km): 200.846649 | Magnitude: 3.904687, Diff(mag) 1.907339| Depth: 46.512154
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 822.726746
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.191259
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (21.001102,32.096794)| Magnitude: 5.354920| Depth: 124.238998
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:18| Seismic coord: (24.739832,29.956970), Diff(coord,km): 428.329712 | Magnitude: 3.778492, Diff(mag) 1.576428| Depth: 38.755386
+Coord: (0,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (22.173523,28.698288), Diff(coord,km): 394.242889 | Magnitude: 4.430251, Diff(mag) 0.924669| Depth: 130.203644
+Coord: (0,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (23.752832,32.013874), Diff(coord,km): 259.472015 | Magnitude: 4.892282, Diff(mag) 0.462639| Depth: 81.655769
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 1326.544434
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 1.330639
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (4,4) | Date and time: 2022/10/16 20:17:22| Seismic coord: (39.310936,38.702892)| Magnitude: 4.693377| Depth: 145.829330
+
+2 out of 2 Adjacent Nodes matching to Reporting Node:
+Coord: (3,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (36.116615,38.559227), Diff(coord,km): 277.901764 | Magnitude: 4.393955, Diff(mag) 0.299423| Depth: 132.449478
+Coord: (4,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (38.048832,35.288883), Diff(coord,km): 395.790009 | Magnitude: 5.305805, Diff(mag) 0.612428| Depth: 109.671906
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 2547.560791
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 1.992182
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (29.858644,21.390980)| Magnitude: 4.200425| Depth: 111.115822
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.710339,20.885994), Diff(coord,km): 331.289917 | Magnitude: 6.308652, Diff(mag) 2.108227| Depth: 122.563469
+Coord: (3,0) | Date and time: 2022/10/16 20:17:18| Seismic coord: (34.477814,21.426258), Diff(coord,km): 478.164124 | Magnitude: 3.673818, Diff(mag) 0.526607| Depth: 153.950974
+Coord: (2,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.351646,26.763943), Diff(coord,km): 616.671692 | Magnitude: 4.654644, Diff(mag) 0.454219| Depth: 32.559502
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 682.072144
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.485134
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (21.451015,24.235243)| Magnitude: 4.187715| Depth: 35.214558
+
+2 out of 2 Adjacent Nodes matching to Reporting Node:
+Coord: (1,0) | Date and time: 2022/10/16 20:17:20| Seismic coord: (26.892204,22.486383), Diff(coord,km): 588.402893 | Magnitude: 3.325142, Diff(mag) 0.862573| Depth: 106.140785
+Coord: (0,1) | Date and time: 2022/10/16 20:17:20| Seismic coord: (22.173523,28.698288), Diff(coord,km): 501.423462 | Magnitude: 4.430251, Diff(mag) 0.242537| Depth: 130.203644
+
+Balloon seismic reporting time: 2022/10/16 20:17:18
+Balloon seismic reporting coord: (23.386475,20.358591)
+Balloon seismic reporting coord diff. with reporting node: 474.784851
+Balloon seismic reporting magnitude: 6.685559
+Balloon seismic reporting magnitude diff. with reporting node: 2.497845
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.671541,35.669392)| Magnitude: 5.012163| Depth: 134.503845
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,3) | Date and time: 2022/10/16 20:17:18| Seismic coord: (26.143391,33.289558), Diff(coord,km): 571.492981 | Magnitude: 5.505533, Diff(mag) 0.493371| Depth: 146.768402
+Coord: (3,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (35.384239,35.075851), Diff(coord,km): 342.995270 | Magnitude: 3.203632, Diff(mag) 1.808531| Depth: 121.468948
+Coord: (2,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (31.567324,28.433331), Diff(coord,km): 804.634338 | Magnitude: 3.904687, Diff(mag) 1.107476| Depth: 46.512154
+Coord: (2,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.288553,36.410530), Diff(coord,km): 315.105530 | Magnitude: 4.324814, Diff(mag) 0.687349| Depth: 70.594223
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1374.424683
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.608604
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time: 2022/10/16 20:17:22
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (34.883141,31.477438)| Magnitude: 3.425126| Depth: 165.329941
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (31.567324,28.433331), Diff(coord,km): 465.345734 | Magnitude: 3.904687, Diff(mag) 0.479561| Depth: 46.512154
+Coord: (4,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (37.616405,28.914518), Diff(coord,km): 387.528656 | Magnitude: 3.467754, Diff(mag) 0.042627| Depth: 54.777958
+Coord: (3,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (32.716904,25.152740), Diff(coord,km): 734.454346 | Magnitude: 5.847049, Diff(mag) 2.421922| Depth: 83.164604
+Coord: (3,3) | Date and time: 2022/10/16 20:17:20| Seismic coord: (35.384239,35.075851), Diff(coord,km): 402.806427 | Magnitude: 3.203632, Diff(mag) 0.221494| Depth: 121.468948
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 841.805298
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 0.889306
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,4) | Date and time: 2022/10/16 20:17:24| Seismic coord: (29.653543,36.607109)| Magnitude: 4.514692| Depth: 142.594543
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (25.207232,38.224751), Diff(coord,km): 431.831024 | Magnitude: 4.217898, Diff(mag) 0.296794| Depth: 157.158432
+Coord: (3,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (36.116615,38.559227), Diff(coord,km): 609.274475 | Magnitude: 4.393955, Diff(mag) 0.120738| Depth: 132.449478
+Coord: (2,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.671541,35.669392), Diff(coord,km): 209.056412 | Magnitude: 5.012163, Diff(mag) 0.497470| Depth: 134.503845
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 869.132874
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 1.978872
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,0) | Date and time: 2022/10/16 20:17:24| Seismic coord: (31.333839,24.209593)| Magnitude: 5.600678| Depth: 58.862026
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,0) | Date and time: 2022/10/16 20:17:20| Seismic coord: (26.892204,22.486383), Diff(coord,km): 492.203339 | Magnitude: 3.325142, Diff(mag) 2.275536| Depth: 106.140785
+Coord: (3,0) | Date and time: 2022/10/16 20:17:20| Seismic coord: (35.469753,20.549118), Diff(coord,km): 588.536011 | Magnitude: 5.549437, Diff(mag) 0.051241| Depth: 83.565292
+Coord: (2,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (29.672291,27.749155), Diff(coord,km): 427.151123 | Magnitude: 5.812026, Diff(mag) 0.211348| Depth: 44.429699
+
+Balloon seismic reporting time: 2022/10/16 20:17:24
+Balloon seismic reporting coord: (35.691422,33.351189)
+Balloon seismic reporting coord diff. with reporting node: 1101.254761
+Balloon seismic reporting magnitude: 6.198858
+Balloon seismic reporting magnitude diff. with reporting node: 0.598180
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (35.219555,24.198872)| Magnitude: 5.975097| Depth: 71.836472
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (2,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (29.672291,27.749155), Diff(coord,km): 680.502258 | Magnitude: 5.812026, Diff(mag) 0.163071| Depth: 44.429699
+Coord: (4,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (37.752312,27.321756), Diff(coord,km): 429.963867 | Magnitude: 3.841140, Diff(mag) 2.133957| Depth: 46.024940
+Coord: (3,0) | Date and time: 2022/10/16 20:17:20| Seismic coord: (35.469753,20.549118), Diff(coord,km): 406.628693 | Magnitude: 5.549437, Diff(mag) 0.425661| Depth: 83.565292
+Coord: (3,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (32.188919,31.017485), Diff(coord,km): 814.723328 | Magnitude: 5.968546, Diff(mag) 0.006551| Depth: 33.197598
+
+Balloon seismic reporting time: 2022/10/16 20:17:24
+Balloon seismic reporting coord: (35.691422,33.351189)
+Balloon seismic reporting coord diff. with reporting node: 1018.676636
+Balloon seismic reporting magnitude: 6.198858
+Balloon seismic reporting magnitude diff. with reporting node: 0.223761
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.159170,29.342915)| Magnitude: 5.101957| Depth: 64.703369
+
+4 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.442554,28.174873), Diff(coord,km): 132.778854 | Magnitude: 5.766813, Diff(mag) 0.664855| Depth: 56.731754
+Coord: (3,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (32.188919,31.017485), Diff(coord,km): 429.716095 | Magnitude: 5.968546, Diff(mag) 0.866589| Depth: 33.197598
+Coord: (2,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (29.672291,27.749155), Diff(coord,km): 230.742859 | Magnitude: 5.812026, Diff(mag) 0.710069| Depth: 44.429699
+Coord: (2,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.671541,35.669392), Diff(coord,km): 776.560059 | Magnitude: 5.012163, Diff(mag) 0.089795| Depth: 134.503845
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1038.947388
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.518809
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (1,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.174498,36.763290)| Magnitude: 4.142257| Depth: 54.038921
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (0,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (23.254217,33.691864), Diff(coord,km): 562.302734 | Magnitude: 6.992517, Diff(mag) 2.850260| Depth: 57.821049
+Coord: (2,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.671541,35.669392), Diff(coord,km): 336.435120 | Magnitude: 5.012163, Diff(mag) 0.869905| Depth: 134.503845
+Coord: (1,2) | Date and time: 2022/10/16 20:17:20| Seismic coord: (28.442554,28.174873), Diff(coord,km): 955.272095 | Magnitude: 5.766813, Diff(mag) 1.624556| Depth: 56.731754
+Coord: (1,4) | Date and time: 2022/10/16 20:17:20| Seismic coord: (25.207232,38.224751), Diff(coord,km): 308.081512 | Magnitude: 4.217898, Diff(mag) 0.075641| Depth: 157.158432
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 993.687256
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 1.606437
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (20.347050,32.160778)| Magnitude: 4.550610| Depth: 157.087311
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.254730,33.458015), Diff(coord,km): 570.522644 | Magnitude: 4.996543, Diff(mag) 0.445933| Depth: 20.356815
+Coord: (0,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (21.001102,32.096794), Diff(coord,km): 61.995995 | Magnitude: 5.354920, Diff(mag) 0.804310| Depth: 124.238998
+Coord: (0,4) | Date and time: 2022/10/16 20:17:22| Seismic coord: (23.028574,37.343300), Diff(coord,km): 626.070312 | Magnitude: 4.576337, Diff(mag) 0.025727| Depth: 139.833176
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 1842.689087
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 2.014790
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (0,0) | Date and time: 2022/10/16 20:17:24| Seismic coord: (20.445681,22.196465)| Magnitude: 6.392529| Depth: 39.026604
+
+2 out of 2 Adjacent Nodes matching to Reporting Node:
+Coord: (1,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.826792,23.994541), Diff(coord,km): 682.493591 | Magnitude: 6.174391, Diff(mag) 0.218138| Depth: 72.617729
+Coord: (0,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (23.594620,28.143362), Diff(coord,km): 733.137390 | Magnitude: 5.748824, Diff(mag) 0.643705| Depth: 116.328087
+
+Balloon seismic reporting time: 2022/10/16 20:17:20
+Balloon seismic reporting coord: (39.306793,38.122894)
+Balloon seismic reporting coord diff. with reporting node: 2524.567383
+Balloon seismic reporting magnitude: 2.535820
+Balloon seismic reporting magnitude diff. with reporting node: 3.856709
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged time: 2022/10/16 20:17:24
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (25.017338,29.433905)| Magnitude: 5.430768| Depth: 164.835800
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (0,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (21.001102,32.096794), Diff(coord,km): 484.598755 | Magnitude: 5.354920, Diff(mag) 0.075848| Depth: 124.238998
+Coord: (2,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (31.937582,29.352951), Diff(coord,km): 670.368713 | Magnitude: 3.457889, Diff(mag) 1.972879| Depth: 53.117741
+Coord: (1,1) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.674913,27.994062), Diff(coord,km): 227.497940 | Magnitude: 3.808679, Diff(mag) 1.622089| Depth: 81.445854
+Coord: (1,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.254730,33.458015), Diff(coord,km): 462.566040 | Magnitude: 4.996543, Diff(mag) 0.434225| Depth: 20.356815
+
+Balloon seismic reporting time: 2022/10/16 20:17:24
+Balloon seismic reporting coord: (35.691422,33.351189)
+Balloon seismic reporting coord diff. with reporting node: 1102.025513
+Balloon seismic reporting magnitude: 6.198858
+Balloon seismic reporting magnitude diff. with reporting node: 0.768090
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,0) | Date and time: 2022/10/16 20:17:26| Seismic coord: (30.454716,24.432327)| Magnitude: 6.950441| Depth: 95.794014
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (1,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.826792,23.994541), Diff(coord,km): 371.093536 | Magnitude: 6.174391, Diff(mag) 0.776050| Depth: 72.617729
+Coord: (3,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (35.307884,23.599155), Diff(coord,km): 501.507965 | Magnitude: 4.239910, Diff(mag) 2.710532| Depth: 75.620712
+Coord: (2,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (32.136806,26.744116), Diff(coord,km): 307.443542 | Magnitude: 6.345049, Diff(mag) 0.605392| Depth: 23.489199
+
+Balloon seismic reporting time: 2022/10/16 20:17:26
+Balloon seismic reporting coord: (22.521570,35.588776)
+Balloon seismic reporting coord diff. with reporting node: 1455.435181
+Balloon seismic reporting magnitude: 6.448401
+Balloon seismic reporting magnitude diff. with reporting node: 0.502040
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,3) | Date and time: 2022/10/16 20:17:26| Seismic coord: (31.001015,34.555988)| Magnitude: 5.819596| Depth: 82.467789
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.254730,33.458015), Diff(coord,km): 454.140076 | Magnitude: 4.996543, Diff(mag) 0.823053| Depth: 20.356815
+Coord: (3,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (34.368427,34.037479), Diff(coord,km): 314.631287 | Magnitude: 3.424607, Diff(mag) 2.394989| Depth: 150.627716
+Coord: (2,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.159170,29.342915), Diff(coord,km): 638.558472 | Magnitude: 5.101957, Diff(mag) 0.717639| Depth: 64.703369
+Coord: (2,4) | Date and time: 2022/10/16 20:17:24| Seismic coord: (29.653543,36.607109), Diff(coord,km): 258.565643 | Magnitude: 4.514692, Diff(mag) 1.304904| Depth: 142.594543
+
+Balloon seismic reporting time: 2022/10/16 20:17:26
+Balloon seismic reporting coord: (22.521570,35.588776)
+Balloon seismic reporting coord diff. with reporting node: 779.876160
+Balloon seismic reporting magnitude: 6.448401
+Balloon seismic reporting magnitude diff. with reporting node: 0.628805
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (4,1) | Date and time: 2022/10/16 20:17:26| Seismic coord: (38.341190,27.115971)| Magnitude: 6.105289| Depth: 71.765533
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (3,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (35.219555,24.198872), Diff(coord,km): 450.611389 | Magnitude: 5.975097, Diff(mag) 0.130191| Depth: 71.836472
+Coord: (4,0) | Date and time: 2022/10/16 20:17:24| Seismic coord: (39.286491,21.516256), Diff(coord,km): 629.944885 | Magnitude: 6.893268, Diff(mag) 0.787980| Depth: 156.009735
+Coord: (4,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (37.616405,28.914518), Diff(coord,km): 212.256409 | Magnitude: 3.467754, Diff(mag) 2.637535| Depth: 54.777958
+
+Balloon seismic reporting time: 2022/10/16 20:17:24
+Balloon seismic reporting coord: (35.691422,33.351189)
+Balloon seismic reporting coord diff. with reporting node: 738.455872
+Balloon seismic reporting magnitude: 6.198858
+Balloon seismic reporting magnitude diff. with reporting node: 0.093570
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:26| Seismic coord: (29.287279,29.667477)| Magnitude: 3.578421| Depth: 114.942017
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (26.447197,31.908691), Diff(coord,km): 368.335907 | Magnitude: 3.390686, Diff(mag) 0.187736| Depth: 163.094620
+Coord: (3,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (34.883141,31.477438), Diff(coord,km): 572.167236 | Magnitude: 3.425126, Diff(mag) 0.153295| Depth: 165.329941
+Coord: (2,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (32.136806,26.744116), Diff(coord,km): 428.464294 | Magnitude: 6.345049, Diff(mag) 2.766628| Depth: 23.489199
+Coord: (2,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.867521,36.585442), Diff(coord,km): 770.195312 | Magnitude: 3.782511, Diff(mag) 0.204089| Depth: 102.783455
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 969.473450
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 2.042345
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (4,3) | Date and time: 2022/10/16 20:17:26| Seismic coord: (39.312706,32.287800)| Magnitude: 4.686168| Depth: 88.814713
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (3,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (34.716145,35.458199), Diff(coord,km): 551.541138 | Magnitude: 5.048815, Diff(mag) 0.362647| Depth: 98.588661
+Coord: (4,2) | Date and time: 2022/10/16 20:17:22| Seismic coord: (37.616405,28.914518), Diff(coord,km): 408.680298 | Magnitude: 3.467754, Diff(mag) 1.218415| Depth: 54.777958
+Coord: (4,4) | Date and time: 2022/10/16 20:17:22| Seismic coord: (39.310936,38.702892), Diff(coord,km): 713.291443 | Magnitude: 4.693377, Diff(mag) 0.007209| Depth: 145.829330
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 935.798767
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.934598
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (4,0) | Date and time: 2022/10/16 20:17:26| Seismic coord: (36.920792,22.218040)| Magnitude: 3.869508| Depth: 103.352036
+
+2 out of 2 Adjacent Nodes matching to Reporting Node:
+Coord: (3,0) | Date and time: 2022/10/16 20:17:22| Seismic coord: (35.307884,23.599155), Diff(coord,km): 225.541550 | Magnitude: 4.239910, Diff(mag) 0.370402| Depth: 75.620712
+Coord: (4,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (39.881145,28.783770), Diff(coord,km): 788.071960 | Magnitude: 3.575589, Diff(mag) 0.293919| Depth: 118.963341
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 215.048172
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 1.751259
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,4) | Date and time: 2022/10/16 20:17:26| Seismic coord: (35.984932,36.924397)| Magnitude: 5.482911| Depth: 53.521904
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (2,4) | Date and time: 2022/10/16 20:17:24| Seismic coord: (29.653543,36.607109), Diff(coord,km): 564.952148 | Magnitude: 4.514692, Diff(mag) 0.968219| Depth: 142.594543
+Coord: (4,4) | Date and time: 2022/10/16 20:17:22| Seismic coord: (39.310936,38.702892), Diff(coord,km): 352.751495 | Magnitude: 4.693377, Diff(mag) 0.789534| Depth: 145.829330
+Coord: (3,3) | Date and time: 2022/10/16 20:17:22| Seismic coord: (34.716145,35.458199), Diff(coord,km): 198.842804 | Magnitude: 5.048815, Diff(mag) 0.434096| Depth: 98.588661
+
+Balloon seismic reporting time: 2022/10/16 20:17:26
+Balloon seismic reporting coord: (22.521570,35.588776)
+Balloon seismic reporting coord diff. with reporting node: 1215.196533
+Balloon seismic reporting magnitude: 6.448401
+Balloon seismic reporting magnitude diff. with reporting node: 0.965490
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (1,4) | Date and time: 2022/10/16 20:17:26| Seismic coord: (24.691097,36.899925)| Magnitude: 4.672984| Depth: 50.571541
+
+2 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (0,4) | Date and time: 2022/10/16 20:17:24| Seismic coord: (21.091314,38.874096), Diff(coord,km): 384.618958 | Magnitude: 5.253737, Diff(mag) 0.580754| Depth: 120.272438
+Coord: (2,4) | Date and time: 2022/10/16 20:17:26| Seismic coord: (32.788990,36.951305), Diff(coord,km): 719.601440 | Magnitude: 4.114018, Diff(mag) 0.558965| Depth: 53.677475
+Coord: (1,3) | Date and time: 2022/10/16 20:17:26| Seismic coord: (27.665083,34.481197), Diff(coord,km): 380.030945 | Magnitude: 6.353378, Diff(mag) 1.680395| Depth: 79.782257
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1832.011841
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 0.947783
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (3,0) | Date and time: 2022/10/16 20:17:26| Seismic coord: (36.182144,24.539417)| Magnitude: 6.410990| Depth: 99.733101
+
+3 out of 3 Adjacent Nodes matching to Reporting Node:
+Coord: (2,0) | Date and time: 2022/10/16 20:17:24| Seismic coord: (31.333839,24.209593), Diff(coord,km): 492.372833 | Magnitude: 5.600678, Diff(mag) 0.810312| Depth: 58.862026
+Coord: (4,0) | Date and time: 2022/10/16 20:17:24| Seismic coord: (39.286491,21.516256), Diff(coord,km): 462.454987 | Magnitude: 6.893268, Diff(mag) 0.482278| Depth: 156.009735
+Coord: (3,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (35.219555,24.198872), Diff(coord,km): 104.588707 | Magnitude: 5.975097, Diff(mag) 0.435893| Depth: 71.836472
+
+Balloon seismic reporting time: 2022/10/16 20:17:24
+Balloon seismic reporting coord: (35.691422,33.351189)
+Balloon seismic reporting coord diff. with reporting node: 980.935486
+Balloon seismic reporting magnitude: 6.198858
+Balloon seismic reporting magnitude diff. with reporting node: 0.212132
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:26| Seismic coord: (28.307625,29.529011)| Magnitude: 4.079310| Depth: 109.072960
+
+3 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (0,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (21.930443,31.976816), Diff(coord,km): 667.223389 | Magnitude: 3.797366, Diff(mag) 0.281944| Depth: 41.175621
+Coord: (2,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.159170,29.342915), Diff(coord,km): 25.195583 | Magnitude: 5.101957, Diff(mag) 1.022647| Depth: 64.703369
+Coord: (1,1) | Date and time: 2022/10/16 20:17:24| Seismic coord: (24.288479,26.947756), Diff(coord,km): 487.146576 | Magnitude: 4.738842, Diff(mag) 0.659533| Depth: 126.885384
+Coord: (1,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.174498,36.763290), Diff(coord,km): 804.471680 | Magnitude: 4.142257, Diff(mag) 0.062947| Depth: 54.038921
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1037.910522
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 1.541457
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:26
+Alert type: Inconclusive
+
+Reporting Node:
+Coord: (3,3) | Date and time: 2022/10/16 20:17:26| Seismic coord: (36.693371,34.646061)| Magnitude: 3.255949| Depth: 161.130386
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (2,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (28.867521,36.585442), Diff(coord,km): 739.259766 | Magnitude: 3.782511, Diff(mag) 0.526561| Depth: 102.783455
+Coord: (4,3) | Date and time: 2022/10/16 20:17:24| Seismic coord: (37.191853,33.860771), Diff(coord,km): 98.604309 | Magnitude: 3.040599, Diff(mag) 0.215350| Depth: 48.307442
+Coord: (3,2) | Date and time: 2022/10/16 20:17:26| Seismic coord: (32.479385,29.643295), Diff(coord,km): 683.061340 | Magnitude: 4.943042, Diff(mag) 1.687093| Depth: 39.278122
+Coord: (3,4) | Date and time: 2022/10/16 20:17:26| Seismic coord: (35.984932,36.924397), Diff(coord,km): 261.259430 | Magnitude: 5.482911, Diff(mag) 2.226962| Depth: 53.521904
+
+Balloon seismic reporting time: 2022/10/16 20:17:22
+Balloon seismic reporting coord: (36.866028,24.151453)
+Balloon seismic reporting coord diff. with reporting node: 1167.010254
+Balloon seismic reporting magnitude: 5.620767
+Balloon seismic reporting magnitude diff. with reporting node: 2.364817
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time: 2022/10/16 20:17:28
+Alert type: Conclusive
+
+Reporting Node:
+Coord: (2,2) | Date and time: 2022/10/16 20:17:28| Seismic coord: (32.794083,32.531300)| Magnitude: 6.500006| Depth: 49.325836
+
+2 out of 4 Adjacent Nodes matching to Reporting Node:
+Coord: (1,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (25.017338,29.433905), Diff(coord,km): 817.107910 | Magnitude: 5.430768, Diff(mag) 1.069238| Depth: 164.835800
+Coord: (3,2) | Date and time: 2022/10/16 20:17:24| Seismic coord: (35.967827,29.077639), Diff(coord,km): 489.154022 | Magnitude: 6.682074, Diff(mag) 0.182068| Depth: 110.226990
+Coord: (2,1) | Date and time: 2022/10/16 20:17:26| Seismic coord: (29.840063,24.637175), Diff(coord,km): 923.779907 | Magnitude: 3.241015, Diff(mag) 3.258991| Depth: 141.628967
+Coord: (2,3) | Date and time: 2022/10/16 20:17:26| Seismic coord: (31.001015,34.555988), Diff(coord,km): 279.795471 | Magnitude: 5.819596, Diff(mag) 0.680409| Depth: 82.467789
+
+Balloon seismic reporting time: 2022/10/16 20:17:26
+Balloon seismic reporting coord: (22.521570,35.588776)
+Balloon seismic reporting coord diff. with reporting node: 1004.843750
+Balloon seismic reporting magnitude: 6.448401
+Balloon seismic reporting magnitude diff. with reporting node: 0.051604
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
